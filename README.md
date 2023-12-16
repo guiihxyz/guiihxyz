@@ -1,4 +1,4 @@
-### oi! eu me chamo guiih (para os mais íntimos)
+### oi! eu me chamo guiih (para os mais íntimos) e sou desenvolvedor backend!
 
 ##
 <!--

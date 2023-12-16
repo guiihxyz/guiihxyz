@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/guiihxyz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiihxyz&theme=chartreuse-dark&custom_title=Meus%20status&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiihxyz&theme=chartreuse-dark&langs_count=8&hide=html&layout=compact&custom_title=Linguagens%20mais%20usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiihxyz&theme=dracula&custom_title=Meus%20status&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiihxyz&theme=dracula&langs_count=8&hide=html&layout=compact&custom_title=Linguagens%20mais%20usadas"/>
 </div> <br>
 
 ##

@@ -1,4 +1,4 @@
-### oi! eu me chamo guiih e sou desenvolvedor backend! 🤓👨‍💻 <br>
+### oi, eu tento ser desenvolvedor backend <br>
 
 ## <br>
 <!--

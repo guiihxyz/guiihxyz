@@ -42,5 +42,5 @@ Here are some ideas to get you started:
   
   ## <br>
   
- <img src="">
+ <img src="https://media.discordapp.net/attachments/1213610121297526784/1249015955934285914/0F5A5F48-A8A2-4749-B1CF-3C1C6F9B7F14.gif?ex=666715c1&is=6665c441&hm=5cf8cc0838414d883b4e7bfc2d3d62d1bbea77add80551cfd84b63538d03efc3&=&width=960&height=383">
 </div>

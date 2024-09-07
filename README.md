@@ -1,5 +1,5 @@
 ### Olá.
-portfólio: <a href="guiihxyz.github.io/guiihdev">clique aqui</a>
+portfólio: guiihxyz.github.io/guiihdev
 
 ## <br>
 <!--

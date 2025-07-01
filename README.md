@@ -31,9 +31,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />

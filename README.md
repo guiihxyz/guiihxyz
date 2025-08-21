@@ -45,8 +45,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="cs spring"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
   <img width="12" />
 </div>
